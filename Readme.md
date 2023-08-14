@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sikendar Sah</h1>
-<h3 align="center">A passionate Data Science Learner  and trader from Nepal</h3>
+<h3 align="center">Hey there, I am freshly Computer Science Engineering  graduated trying to find my place in IT owrld. I will be publishing my work/projects here. Feel free to drop by</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sikendarsah&label=Profile%20views&color=0e75b6&style=flat" alt="sikendarsah" /> </p>
 
