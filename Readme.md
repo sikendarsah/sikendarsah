@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/trade_sikendar" target="blank"><img src="https://img.shields.io/twitter/follow/trade_sikendar?logo=twitter&style=for-the-badge" alt="trade_sikendar" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/sikendarsah)
+- 🔭 I’m currently working on [Portfolio]([https://github.com/sikendarsah](https://github.com/sikendarsah/Autonomous-AI_Powered-Cryptocurrency-Bot))
 
 - 🌱 I’m currently learning **pinescript**
 
